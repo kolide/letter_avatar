@@ -9,7 +9,7 @@ module LetterAvatar
 
     FILL_COLOR = 'rgba(255, 255, 255, 0.65)'.freeze
 
-    FONT_FILENAME = File.join(File.expand_path('../../', File.dirname(__FILE__)), 'Roboto-Medium')
+    FONT_FILENAME = File.join(File.expand_path('../../', File.dirname(__FILE__)), 'Lato-Medium')
 
     class << self
       class Identity
